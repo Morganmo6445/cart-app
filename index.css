@@ -6,7 +6,7 @@ html, body {
     color: #032a0c;
     user-select: none;
     background-image: url("assets/background.png");
-    background-size: cover;
+    background-size: 100vh;
 }
 
 .container {
