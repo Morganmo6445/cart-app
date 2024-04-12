@@ -3,10 +3,11 @@ html, body {
     padding: 0;
     font-family: 'Rubik', sans-serif;
     background-color: #EEF0F4;
-    color: #432000;
+    color: #032a0c;
     user-select: none;
     background-image: url("assets/background.png");
     background-size: cover;
+    align-items: center;
 }
 
 .container {
