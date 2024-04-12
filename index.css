@@ -6,7 +6,8 @@ html, body {
     color: #032a0c;
     user-select: none;
     background-image: url("assets/background.png");
-    background-size: 100vh;
+    background-size: 100vw 100vh;
+    background-repeat: no-repeat;
 }
 
 .container {
