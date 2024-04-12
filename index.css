@@ -6,7 +6,7 @@ html, body {
     color: #032a0c;
     user-select: none;
     background-image: url("assets/background.png");
-    
+    background-size: cover;
 }
 
 .container {
@@ -14,8 +14,8 @@ html, body {
     flex-direction: column;
     max-width: 320px;
     margin: 30px auto;
-    background-size: cover;
-    align-items: center;
+    /* background-size: cover;
+    align-items: center; */
 }
 
 img {
