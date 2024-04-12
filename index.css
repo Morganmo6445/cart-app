@@ -55,7 +55,8 @@ ul {
     display: flex;
     flex-wrap: wrap;
     gap: 10px;
-    align-items: center; 
+    align-items: center;
+    text-align: center;
 }
 
 ul li {
@@ -73,7 +74,3 @@ ul li:hover {
     cursor: pointer;
 }
 
-ul #shopping-list {
-    align-items: center;
-    justify-content: center;
-}
