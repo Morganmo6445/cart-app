@@ -72,6 +72,7 @@ ul li:hover {
     cursor: pointer;
 }
 
-#shopping-list {
+ul #shopping-list {
     align-items: center;
+    justify-content: center;
 }
